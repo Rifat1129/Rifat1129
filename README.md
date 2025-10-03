@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, This is Rifat Hassan<br>🎓 A Computer Science & Engineering student with a strong interest in software development and problem-solving.<br>💻 Skilled in C++,JavaScript, CSS, HTML, React, Go, and Competitive Programming.<br>🚀 Passionate about building impactful projects and continuously learning new technologies.
+👋 Hi, This is # Rifat Hassan<br>
+🎓 A Computer Science & Engineering student with a strong interest in software development and problem-solving.<br>💻 Skilled in C++,JavaScript, CSS, HTML, React, Go, and Competitive Programming.<br>🚀 Passionate about building impactful projects and continuously learning new technologies.
 
 
 ## 🌐 Socials:
